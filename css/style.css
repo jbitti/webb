@@ -1,0 +1,143 @@
+body {
+    background-color: #1B1C1F;
+}
+
+
+
+
+/* CSS DE HOME*/
+
+/*header{
+    margin-top: 113px;
+    margin-right: 99px;
+    text-align: right;
+}*/
+
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-left: 30px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+
+.TopNavigator {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+    text-align: center;
+
+}
+
+.textoindex {
+    margin-top: 17%;
+}
+
+h3 {
+    /*
+    position: absolute;
+    width: 305px;
+    height: 20px;
+    left: 807px;
+    top: 423px;
+    */
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+h2 {
+    /*
+    position: absolute;
+    width: 304px;
+    height: 59px;
+    left: 807px;
+    top: 438px;
+    */
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 59px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h4 {
+    /*
+    position: absolute;
+    width: 156px;
+    height: 20px;
+    left: 881px;
+    top: 515px;
+    */
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+
+/*CSS ACERCA DE*/
+
+.TopNavigatorPages {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    margin-top: 120px;
+    text-align: center;
+
+}
+
+p {
+    /*position: absolute;
+    width: 839px;
+    height: 493px;
+    left: calc(50% - 839px/2 - 370.5px);
+    top: 320px;*/
+    width: 700px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+img {
+    float: right;
+    width: 32%;
+    margin-top: 2%;
+    margin-right: 6%;
+}
+
+.Gallery {
+    margin-left: 1%;
+}
+
+.row {
+    margin-left: 2%;
+}
